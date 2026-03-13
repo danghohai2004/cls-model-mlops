@@ -1,0 +1,4 @@
+batch_size: 32
+lr: 0.001
+epochs: 5
+momentum: 0.9
